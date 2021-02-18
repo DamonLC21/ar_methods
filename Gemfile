@@ -9,3 +9,5 @@ gem "sinatra-activerecord"
 gem "rake"
 gem "sqlite3"
 gem "require_all"
+
+gem "tty-prompt", "~> 0.23.0"
